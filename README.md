@@ -6,7 +6,7 @@
 -  [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/jameel-rana/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrtU4AckiSlaybimMVczwSQ%3D%3D
+    link = "//linkedin.com/in/jameel-rana/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrtU4AckiSlaybimMVczwSQ%3D%3D"
 
 <!---
 jameel1k/jameel1k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
