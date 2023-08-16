@@ -15,10 +15,14 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> ... </p> <!-- I've abbreviated this section for brevity -->
+<p align="left"> 
+<!-- The icons for the languages and tools remain unchanged -->
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+... 
+</p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/jameel1k" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jameel1k" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/jameel1k" target="_blank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/jameel1k" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jameel1k&show_icons=true&locale=en&layout=compact" alt="jameel1k" /></p>
 
