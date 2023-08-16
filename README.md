@@ -14,7 +14,6 @@
 <a href="https://www.linkedin.com/in/jameel-rana/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jameel-rana" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 All of my projects are available <a href="https://github.com/jameel1k?tab=repositories" target="_blank" rel="noopener noreferrer">here</a>.
 
 
 <h3 align="left">Languages and Tools:</h3>
