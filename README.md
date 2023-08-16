@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jameel1k" alt="jameel1k" /></a> </p>
 
-- 🔭 I’m currently working on **Data Warehouses, ETL pipelines on AWS & Azure.**
+🔭 I’m currently working on **Data Warehouses, ETL pipelines on AWS & Azure.**
 
-- 👨‍💻 All of my projects are available <a href="https://github.com/jameel1k?tab=repositories" target="_blank">here</a>.
+👨‍💻 All of my projects are available <a href="https://github.com/jameel1k?tab=repositories" target="_blank">here</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
